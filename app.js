@@ -1,4 +1,4 @@
-/*let titulo = document.querySelector("h1");
+let titulo = document.querySelector("h1");
 titulo.innerHTML = "Hora do desafio"; 
 
 
@@ -21,7 +21,7 @@ let numero = prompt("Digite um numero: ");
 let numero2 = prompt("Digite outro numero: ");
 let soma = Number(numero) + Number(numero2);
 alert(`A soma de ${numero} e ${numero2} é ${soma}`);
-} */
+}
 
 
 function maiorValor(num1){
