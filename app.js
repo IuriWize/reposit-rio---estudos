@@ -2,7 +2,7 @@ let titulo = document.querySelector("h1");
 titulo.innerHTML = "Hora do desafio"; 
 
 
-let nome = "Márcia";
+let nome = "Iuri";
 function verificarConsole(){
     console.log(`Olá, ${nome} `); 
 }
